@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Hola 2016"
-subtitle:   " \"New Blog\""
+title:      "The Rewards of Living a Solitary"
+subtitle:   " \"\""
 date:       2015-01-29 12:00:00
 author:     "iPortia"
 catalog: true
