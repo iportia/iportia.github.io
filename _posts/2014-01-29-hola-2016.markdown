@@ -1,12 +1,12 @@
 ---
 layout:     post
 title:      "The Rewards of Living a Solitary"
-subtitle:   " \"\""
+subtitle:   
 date:       2015-01-29 12:00:00
 author:     "iPortia"
 catalog: true
 tags:
-    - 生活
+    - 
 ---
 
 
