@@ -1,12 +1,12 @@
 ---
 layout:     post
 title:      "Dying family"
-subtitle:   " Chapter one"
+subtitle:   ""
 date:       2016-01-01 12:00:00
 author:     "iPortia"
 catalog: true
 tags:
-    - 
+    -
 ---
 
 
@@ -24,4 +24,3 @@ Critical Thinking: Analyzing the Text
 All there is to writing is having ideas. To learn to write is to learn to have ideas. ---Robert Frost
 
 For anyone who can see things for himself with a naked eye becomes, for a moment or two, something of a genius.
-
