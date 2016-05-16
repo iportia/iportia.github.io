@@ -2,7 +2,7 @@
 layout:     post
 title:      "文学的理由"
 subtitle:   "高行健获奖感言"
-date:       2016-05-16 10:00:00
+date:       2016-05-16 09:30:00
 author:     "iPortia"
 catalog: true
 tags:
