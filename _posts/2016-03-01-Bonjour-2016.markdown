@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Ward Allen .me2"
+title:      "Ward Allen"
 subtitle:   ""
 date:       2016-02-14 12:00:00
 author:     "iPortia"
