@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "提問的智慧"
-subtitle:   "How To Ask Questions The Smart Way"
+title:      "Genesis"
+subtitle:   "緣起"
 date:       2016-05-16 09:35:00
 author:     "iPortia"
 catalog: false
