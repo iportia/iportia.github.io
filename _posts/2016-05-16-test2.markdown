@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "提問的智慧"
+subtitle:   "How To Ask Questions The Smart Way"
+date:       2016-05-16 09:35:00
+author:     "iPortia"
+catalog: true
+tags:
+    -
+---
+
+
+
+
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+
+    <!--copied from markdown -->
+    <blockquote><p>原文太囉嗦，早已喪失smart way的態度，但不妨礙它仍然是一個很有意思的主題，至少原作的許多idea很值得玩味。 Smart不應當僅僅只是「准確」，它還必須simple and elegant，真正smart的傢伙可不會對這兩個要素視而不見？
+
+ <br>
+
+    </p></blockquote>
+
+</div>
+
+![](iportia.github.io/img/test.PNG)
+
+
+
+
+
+
+
+
+
+
