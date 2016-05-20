@@ -1,14 +1,10 @@
 ---
 layout:     post
 title:      "Genesis"
-subtitle:   "緣起"
+subtitle:   ""
 date:       2016-05-17 08:00:00
-author:     "iPortia"
+author:     ".me"
 catalog: false
 tags:
-    
+
 ---
-
-
-
-文字的精微無時無刻不在穿透我的感知，讓我同世界聯繫在一起。
